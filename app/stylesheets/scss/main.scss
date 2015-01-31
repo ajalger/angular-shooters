@@ -1,5 +1,7 @@
 @import "bourbon";
-@import "neat";
+/* @import "base"; to include Bitters. Install Bitters in your SCSS file. */
+@import "neat"; /* You can delete this if you're not using Neat */
 
 /* Added Bourbon and Neat */
 
+/*@import all other scss files here to link to this page.

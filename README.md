@@ -16,11 +16,19 @@ The current directory tree is as follows:
 │   ├── scripts
 │   │   ├── app.js
 │   │   ├── controllers
+│   │   |.. └── controller1.js
 │   │   ├── directives
+│   │   |.. └── directive1.js
+|.. |.. ├── filters
+│   │   |.. └── filter1.js
+|.. |.. ├── minjs
 │   │   └── services
+│   │   |.. └── service1.js
 │   ├── stylesheets
 │   │   └── scss
-│   └── views
+│   ├──  views
+|.. |.. ├── _app.html
+|.. |.. └── _landing.html
 ├── gulpfile.js
 ├── package.json
 └── server.js
@@ -31,13 +39,13 @@ If you like the project, please use it. Just make sure to run ```npm install``` 
 I will continue to work on this project. If you have any improvements, please fork and make a pull request. 
 
 ###Update:
-I've written all the AngularJS using IFFEs.
+I've written all the AngularJS using IFFEs. I've also added the Angular files for each folder. 
 
 ##LICENSE
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Abdullah J. Alger
+Copyright (c) 2015 Abdullah J. Alger
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

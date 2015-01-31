@@ -16,6 +16,8 @@ var express = require('express'),
 // =========================CONFIGURATION===========================//
 // =================================================================//
 app.set('port', process.env.PORT || 9001); // Set to 9001 to not interfere with Gulp 9000
+// If you're using Cloud9, or an IDE that uses a different port, process.env.PORT will 
+// take care of your problems. You don't need to set a new port.
 app.use(serveStatic('app', {'index': true})); // Set to True or False if you want to start on Index or not
 app.use('/bower_components', express.static(__dirname + '/bower_components'));
 app.use(bodyParser.urlencoded({ extended: true }));
