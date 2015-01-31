@@ -16,19 +16,22 @@ The current directory tree is as follows:
 │   ├── scripts
 │   │   ├── app.js
 │   │   ├── controllers
-│   │   |   └── controller1.js
+│   │   │   └── controller1.js
 │   │   ├── directives
-│   │   |   └── directive1.js
-|   |   ├── filters
-│   │   |   └── filter1.js
-|   |   ├── minjs
+│   │   │   └── directive1.js
+│   │   ├── filters
+│   │   │   └── filter1.js
+│   │   ├── minjs
+│   │   │   └── app.js
 │   │   └── services
-│   │   |   └── service1.js
+│   │       └── service1.js
 │   ├── stylesheets
 │   │   └── scss
-│   ├──  views
-|   |   ├── _app.html
-|   |   └── _landing.html
+│   │       └── main.scss
+│   └── views
+│       ├── _app.html
+│       └── _landing.html
+├── bower.json
 ├── gulpfile.js
 ├── package.json
 └── server.js
