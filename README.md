@@ -1,8 +1,8 @@
 #Angular Shooters
 
-This is a skeleton template using AngularJS, Bourbon and Neat, NodeJS, and ExpressJS(4) so you can just shoot it and Gulp. The skeleton is based on several Yeoman generators that I have used but did not like because I wanted to use a different task runner than Grunt, thus I used Gulp, and I wanted Bourbon and Neat right out of the box. 
+This is a skeleton template using AngularJS, Bourbon and Neat, NodeJS, and ExpressJS 4.x so you can just take a shot and Gulp. The skeleton is based on several Yeoman generators that I have used. However, I wanted to use a different task runner than Grunt, thus I used Gulp, and I wanted Bourbon and Neat right out of the box. So, I decided to try to make my own skeleton to use for projects.
 
-This skeleton connects Bourbon and Neat through NodeJS and uses ExpressJS to allow you to create various routes you may need. Everything is connected through AngularJS, and I have also included UI Router so you would not have to.  
+This skeleton connects Bourbon and Neat through NodJS and GlupJS and uses ExpressJS to allow you to create various routes you may need for your API. Everything is connected through AngularJS, and I have also included UI Router so you would not have to.  
 
 The current directory tree is as follows:
 
@@ -30,6 +30,8 @@ If you like the project, please use it. Just make sure to run ```npm install``` 
 
 I will continue to work on this project. If you have any improvements, please fork and make a pull request. 
 
+###Update:
+I've written all the AngularJS using IFFEs.
 
 ##LICENSE
 
