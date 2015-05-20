@@ -42,7 +42,8 @@ If you like the project, please use it. Just make sure to run ```npm install``` 
 I will continue to work on this project. If you have any improvements, please fork and make a pull request. 
 
 ###Update:
-I've written all the AngularJS using IFFEs. I've also added the Angular files for each folder. 
+ - I've written all the AngularJS using IFFEs. I've also added the Angular files for each folder.
+ - Working on an update to the skeleton 5/20/15
 
 ##LICENSE
 
