@@ -1,9 +1,11 @@
 (function() {
     
     angular.module('myApp')
-    .controller('CtrlName', ['$scope', function($scope) {
-        
-    }]);
-    
+    .controller('CtrlName', CtrlName);
+
+    function CtrlName(){
+        var vm = this; // this is the view model connection
+    }
+
     
 })();

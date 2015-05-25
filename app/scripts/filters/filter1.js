@@ -1,10 +1,9 @@
 (function(){
     
     angular.module('myApp')
-    .filter('myFilter', ['$scope', function($scope) {
-    
-    
-    
-    }]);
+    .filter('myFilter', myFilter);
+    function myFilter() {
+        var vm = this;
+    }
 
 })();
