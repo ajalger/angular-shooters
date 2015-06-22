@@ -1,6 +1,6 @@
 #Angular Shooters
 
-![](http://brunch.io/images/others/gulp.png) ![](http://megahbite.github.io/bourbon-talk/img/bourbon-logo.png)
+| | ![](http://brunch.io/images/others/gulp.png) ![](http://megahbite.github.io/bourbon-talk/img/bourbon-logo.png) | |
 
 This is a skeleton template using AngularJS, Bourbon and Neat, NodeJS, and ExpressJS 4.x so you can just take a shot and Gulp. The skeleton is based on several Yeoman generators that I have used. However, I wanted to use a different task runner than Grunt, thus I used Gulp, and I wanted Bourbon and Neat right out of the box. So, I decided to try to make my own skeleton to use for projects.
 
