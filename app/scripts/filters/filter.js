@@ -2,8 +2,8 @@
     
     angular.module('myApp')
     .filter('myFilter', myFilter);
-    function myFilter() {
-        var vm = this;
-    }
+        function myFilter() {
+            var vm = this;
+        }
 
 })();

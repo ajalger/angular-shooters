@@ -1,0 +1,23 @@
+/* @import "base"; to include Bitters. Install Bitters in your SCSS file. */
+/* Neat 1.7.0
+ * http://neat.bourbon.io
+ * Copyright 2012-2014 thoughtbot, inc.
+ * MIT License */
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit; }
+
+/* You can delete this if you're not using Neat */
+/* Added Bourbon and Neat */
+/*
+
+@import all other scss files here to link to this page.
+Bourbon and Neat are already installed and put into your application via Gulp. It's fabulous!
+
+*/
