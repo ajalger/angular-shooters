@@ -48,12 +48,13 @@ I will continue to work on this project. If you have any improvements, please fo
  - Working on an update to the skeleton (5/20/15)
  - Updated Angular code to follow (somewhat) John Papa's Angular Style Guide (5/27/2015)
  - Updated Gulp-Ruby-Sass to use Node-Neat in a new configuration (6/23/2015)
+ - I intend to update this project to include ES2015, all NPM modules, and reconfigure the folders. (2/4/2016)
 
 ##LICENSE
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Abdullah J. Alger
+Copyright (c) 2016 Abdullah J. Alger
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
