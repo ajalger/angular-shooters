@@ -49,6 +49,7 @@ I will continue to work on this project. If you have any improvements, please fo
  - Updated Angular code to follow (somewhat) John Papa's Angular Style Guide (5/27/2015)
  - Updated Gulp-Ruby-Sass to use Node-Neat in a new configuration (6/23/2015)
  - I intend to update this project to include ES2015, all NPM modules, and reconfigure the folders. (2/4/2016)
+ - I am going to fix the file structure in order to promote Angular best practices where each module will have its own file. The current skeleton does not have this. Additionally, I will refactor some of the boilerplate code to make it more purty!
 
 ##LICENSE
 
